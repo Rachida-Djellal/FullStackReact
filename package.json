@@ -1,0 +1,27 @@
+{
+  "name": "test_react",
+  "version": "1.0.0",
+  "description": "this is a test to learn git and node",
+  "main": "index.hmtl",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rachida-Djellal/FullStackReact.git"
+  },
+  "keywords": [
+    "lana2020"
+  ],
+  "author": "rachida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rachida-Djellal/FullStackReact/issues"
+  },
+  "homepage": "https://github.com/Rachida-Djellal/FullStackReact#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
